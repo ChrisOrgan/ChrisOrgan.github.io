@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-The life that surrounds us today was created over billions of years of evolution. Because 99% of species to have ever lived are extinct, the data to understand this diversity is much shallower than it looks. We are a dynamic research group at [Montana State University](http://www.montana.edu) and our aim is to apply computational and data science approaches to elucidate how this diversity, and our place in the world, has evolved.T
+The life that surrounds us today was created over billions of years of evolution. Because 99% of species to have ever lived are extinct, the data to understand this diversity is much shallower than it looks. We are a dynamic research group at [Montana State University](http://www.montana.edu) and our aim is to apply computational and data science approaches to elucidate how this diversity, and our place in the world, has evolved.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="1000" data-pause="hover" >
