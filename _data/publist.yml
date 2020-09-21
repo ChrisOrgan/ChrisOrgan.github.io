@@ -1,0 +1,53 @@
+- title: "<a href='https://doi.org/10.1038/s41586-020-2561-9'>The tuatara genome reveals ancient features of amniote evolution</a>"
+  image: Tuatara.png
+  description: The tuatara (*Sphenodon punctatus*) — the only living member of the reptilian order Rhynchocephalia (Sphenodontia), once widespread across Gondwana — is an iconic species that is endemic to New Zealand. A key link to the now-extinct stem reptiles (from which dinosaurs, modern reptiles, birds and mammals evolved), the tuatara provides key insights into the ancestral amniotes...
+  authors: Gemmell, N.J., Rutherford, K., Prost, S. et al. Nature (2020)
+  link:
+    url: https://doi.org/10.1038/s41586-020-2561-9
+  highlight: 1
+  news2:
+
+- title: "<a href='https://doi.org/10.1098/rstb.2019.0146'>The Relationship Between Genome Size and Metabolic Rate in Extant Vertebrates</a>"
+  image: genome_metab.png
+  description: Genome size has long been hypothesized to affect the metabolic rate in various groups of animals. The mechanism behind this proposed association is the nucleotypic effect, in which large nucleus and cell sizes influence cellular metabolism through surface area-to-volume ratios...
+  authors: Gardner, J., M. Laurin, and C. L. Organ Philosophical Transactions of the Royal Society B. (2020)
+  link:
+    url: https://doi.org/10.1098/rstb.2019.0146
+  highlight: 1
+  news2:
+
+- title: "<a href='https://doi.org/10.1016/j.crpv.2019.10.008'>Early Tetrapodomorph biogeography: controlling for fossil record bias in macroevolutionary analyses</a>"
+  image: fossil_record_bias.png
+  description: Here, we develop a sampling bias proxy that incorporates geographic information and test it with a case study on early tetrapodomorph biogeography. We use recently-developed Bayesian phylogeographic models and a new supertree of early tetrapodomorphs to estimate dispersal rates and ancestral habitat locations...
+  authors: Gardner, J., K. Surya, and C. L. Organ; Comptes Rendus Palevol.(2019)
+  link:
+    url: https://doi.org/10.1016/j.crpv.2019.10.008
+  highlight: 1
+  news2:
+
+- title: "<a href='https://doi:10.1038/s41559-018-0486-6'>Biogeography across the ages</a>"
+  image: earth.png
+  description: Allowing biogeographical data to evolve at varying rates on a globe, not a plane, reveals new insights into the origin and dispersal of dinosaurs. The method could also be applied to manifold organisms, from humans to influenza viruses....
+  authors: Organ, C. L.; Nature Ecology & Evolution  (2018)
+  link:
+    url: https://doi:10.1038/s41559-018-0486-6
+  highlight: 1
+  news2:
+
+- title: "<a href='https://doi:10.1038/ncomms14445'>Live birth in an archosauromorph reptile</a>"
+  image: pregrep.png
+  description: Despite evolving many times independently in vertebrates, live birth is unknown in the major clade Archosauromorpha (birds, crocodilians, and dinosaurs). Here we report the discovery of a pregnant long-necked archosauromorph marine reptile (*Dinocephalosaurus*) from the Middle Triassic (B245 million years ago) of southwest China...
+  authors: Jun Liu, J., C. L. Organ, M. J. Benton, M. C. Brandley, and J. C. Aitchison; Nature Communications (2017)
+  link:
+    url: https://doi:10.1038/ncomms14445
+  highlight: 1
+  news2:
+
+- title: "<a href='https://doi:10.1038/ncomms12931'>Bony cranial ornamentation linked to rapid evolution of gigantic theropod dinosaurs</a>"
+  image: trex_155.small.png
+  description: Exaggerated cranial structures such as crests and horns, hereafter referred to collectively as ornaments, are pervasive across animal species. Here, we show that body size evolved directionally toward phyletic giantism an order of magnitude faster in theropod species possessing ornaments compared with unadorned lineages...
+  authors: Gates, T. D., C. L. Organ, and L. Zanno; Nature Communications (2016)
+  link:
+    url: https://doi:10.1038/ncomms12931
+  highlight: 1
+  news2:
