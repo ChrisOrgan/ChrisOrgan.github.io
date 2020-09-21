@@ -27,9 +27,9 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #000 !default;
+$body-bg:               #fff !default;
 //** Global text color on `<body>`.
-$text-color:            #fff !default;
+$text-color:            $gray !default;
 
 //** Global textual link color.
 $link-color:            $brand-primary !default;
@@ -69,7 +69,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    inherit !default;
 $headings-font-weight:    400 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:       	#696969 !default;
+$headings-color:          $gray-dark !default;
 
 
 //== Iconography
@@ -108,7 +108,7 @@ $border-radius-large:       5px !default;
 $border-radius-small:       2px !default;
 
 //** Global color for active items (e.g., navs or dropdowns).
-$component-active-color:    #000 !default;
+$component-active-color:    #fff !default;
 //** Global background color for active items (e.g., navs or dropdowns).
 $component-active-bg:       $brand-primary !default;
 
@@ -149,23 +149,23 @@ $btn-default-color:              $gray !default;
 $btn-default-bg:                 $gray-lighter !default;
 $btn-default-border:             darken($btn-default-bg, 5%) !default;
 
-$btn-primary-color:              #000 !default;
+$btn-primary-color:              #fff !default;
 $btn-primary-bg:                 $brand-primary !default;
 $btn-primary-border:             darken($btn-primary-bg, 5%) !default;
 
-$btn-success-color:              #000 !default;
+$btn-success-color:              #fff !default;
 $btn-success-bg:                 $brand-success !default;
 $btn-success-border:             darken($btn-success-bg, 5%) !default;
 
-$btn-info-color:                 #000 !default;
+$btn-info-color:                 #fff !default;
 $btn-info-bg:                    $brand-info !default;
 $btn-info-border:                darken($btn-info-bg, 5%) !default;
 
-$btn-warning-color:              #000 !default;
+$btn-warning-color:              #fff !default;
 $btn-warning-bg:                 $brand-warning !default;
 $btn-warning-border:             darken($btn-warning-bg, 5%) !default;
 
-$btn-danger-color:               #000 !default;
+$btn-danger-color:               #fff !default;
 $btn-danger-bg:                  $brand-danger !default;
 $btn-danger-border:              darken($btn-danger-bg, 5%) !default;
 
@@ -182,14 +182,14 @@ $btn-border-radius-small:        $border-radius-small !default;
 //##
 
 //** `<input>` background color
-$input-bg:                       #000 !default;
+$input-bg:                       #fff !default;
 //** `<input disabled>` background color
 $input-bg-disabled:              $gray-lighter !default;
 
 //** Text color for `<input>`s
 $input-color:                    $gray !default;
 //** `<input>` border color
-$input-border:                   f000 !default;
+$input-border:                   darken(#f8f8f8, 6.5%) !default;
 
 // TODO: Rename `$input-border-radius` to `$input-border-radius-base` in v4
 //** Default `.form-control` border radius
@@ -233,7 +233,7 @@ $cursor-disabled:                not-allowed !default;
 //## Dropdown menu container and contents.
 
 //** Background for the dropdown menu.
-$dropdown-bg:                    #000 !default;
+$dropdown-bg:                    #fff !default;
 //** Dropdown menu `border-color`.
 $dropdown-border:                $input-border !default;
 //** Dropdown menu `border-color` **for IE8**.
@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #000 !default;
+$navbar-default-bg:                #f8f8f8 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
@@ -384,7 +384,7 @@ $navbar-default-brand-hover-color:         $navbar-default-link-hover-color !def
 $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
-$navbar-default-toggle-hover-bg:           #000 !default;
+$navbar-default-toggle-hover-bg:           #fff !default;
 $navbar-default-toggle-icon-bar-bg:        $gray-light !default;
 $navbar-default-toggle-border-color:       $gray-lighter !default;
 
@@ -392,7 +392,7 @@ $navbar-default-toggle-border-color:       $gray-lighter !default;
 //=== Inverted navbar
 // Reset inverted navbar basics
 $navbar-inverse-color:                      $gray-light !default;
-$navbar-inverse-bg:                         #000 !default;
+$navbar-inverse-bg:                         #fff !default;
 $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
 
 // Inverted navbar links
@@ -421,7 +421,7 @@ $navbar-inverse-toggle-border-color:        $gray-lighter !default;
 
 //=== Shared nav styles
 $nav-link-padding:                          10px 15px !default;
-$nav-link-hover-bg:                         #000 !default;
+$nav-link-hover-bg:                         #fff !default;
 
 $nav-disabled-link-color:                   $gray-light !default;
 $nav-disabled-link-hover-color:             $gray-light !default;
@@ -431,7 +431,7 @@ $nav-tabs-border-color:                     $navbar-default-border !default;
 
 $nav-tabs-link-hover-border-color:          $gray-lighter !default;
 
-$nav-tabs-active-link-hover-bg:             #000 !default;
+$nav-tabs-active-link-hover-bg:             #fff !default;
 $nav-tabs-active-link-hover-color:          $gray !default;
 $nav-tabs-active-link-hover-border-color:   $nav-tabs-border-color !default;
 
@@ -456,7 +456,7 @@ $pagination-hover-color:               $pagination-color !default;
 $pagination-hover-bg:                  $pagination-bg !default;
 $pagination-hover-border:              $pagination-border !default;
 
-$pagination-active-color:              #000 !default;
+$pagination-active-color:              #fff !default;
 $pagination-active-bg:                 $brand-primary !default;
 $pagination-active-border:             $btn-primary-border !default;
 
@@ -537,7 +537,7 @@ $tooltip-arrow-color:         $tooltip-bg !default;
 //##
 
 //** Popover body background color
-$popover-bg:                          #000 !default;
+$popover-bg:                          #fff !default;
 //** Popover maximum width
 $popover-max-width:                   276px !default;
 //** Popover border color
@@ -597,7 +597,7 @@ $modal-title-padding:         15px !default;
 $modal-title-line-height:     $line-height-base !default;
 
 //** Background color of modal content area
-$modal-content-bg:                             #000 !default;
+$modal-content-bg:                             #fff !default;
 //** Modal content border color
 $modal-content-border-color:                   rgba(0,0,0,.05) !default;
 //** Modal content border color **for IE8**
@@ -670,7 +670,7 @@ $progress-bar-info-bg:        $brand-info !default;
 //##
 
 //** Background color on `.list-group-item`
-$list-group-bg:                 #000 !default;
+$list-group-bg:                 #fff !default;
 //** `.list-group-item` border color
 $list-group-border:             $gray-lighter !default;
 //** List group border radius
@@ -703,7 +703,7 @@ $list-group-link-heading-color: #333 !default;
 //
 //##
 
-$panel-bg:                    #000 !default;
+$panel-bg:                    #fff !default;
 $panel-body-padding:          15px !default;
 $panel-heading-padding:       10px 15px !default;
 $panel-footer-padding:        $panel-heading-padding !default;
@@ -711,7 +711,7 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #000 !default;
+$panel-footer-bg:             #f5f5f5 !default;
 
 $panel-default-text:          $gray-dark !default;
 $panel-default-border:        transparent !default;
@@ -761,7 +761,7 @@ $thumbnail-caption-padding:   9px !default;
 //
 //##
 
-$well-bg:                     #000 !default;
+$well-bg:                     $jumbotron-bg !default;
 $well-border:                 darken($well-bg, 7%) !default;
 
 
@@ -769,7 +769,7 @@ $well-border:                 darken($well-bg, 7%) !default;
 //
 //##
 
-$badge-color:                 #000 !default;
+$badge-color:                 #fff !default;
 //** Linked badge text color on hover
 $badge-link-hover-color:      #fff !default;
 $badge-bg:                    $brand-primary !default;
@@ -777,7 +777,7 @@ $badge-bg:                    $brand-primary !default;
 //** Badge text color in active nav link
 $badge-active-color:          $link-color !default;
 //** Badge background color in active nav link
-$badge-active-bg:             #000 !default;
+$badge-active-bg:             #fff !default;
 
 $badge-font-weight:           normal !default;
 $badge-line-height:           1 !default;
@@ -833,7 +833,7 @@ $close-text-shadow:           0 1px 0 #fff !default;
 $code-color:                  #c7254e !default;
 $code-bg:                     #f9f2f4 !default;
 
-$kbd-color:                   #000 !default;
+$kbd-color:                   #fff !default;
 $kbd-bg:                      #333 !default;
 
 $pre-bg:                      #f5f5f5 !default;
