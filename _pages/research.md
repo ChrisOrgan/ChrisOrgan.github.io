@@ -10,7 +10,7 @@ permalink: /research/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Graphical_Abstract.png){: style="width: 200px; float: right; border: 10px"}
 
-Our overarching research goal is to understand how the genotype and phenotype coevolve across major evolutionary transformations during the history of life. This is a central problem in macroevolutionary theory: the large-scale patterns and processes of evolution. I tackle this work with a wide range of data, from genomic sequencing and histology to physiology and the fossil record. I create and apply bioinformatic and data science models to marry these multidisciplinary data under the principle of consilience.
+Our overarching research goal is to understand how the genotype and phenotype coevolve across major evolutionary transformations during the history of life. This is a central problem in macroevolutionary theory: the large-scale patterns and processes of evolution. We tackle this work with a wide range of data, from genomic sequencing and histology to physiology and the fossil record. Our team creates and applies bioinformatic and data science models to marry these multidisciplinary data under the principle of consilience.
 
 ### PyPhy & Comparative Methods
 
