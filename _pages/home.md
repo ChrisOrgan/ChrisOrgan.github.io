@@ -63,7 +63,7 @@ We build and apply evolutionary models (known as phylogenetic comparative method
 We are proud members of the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) and are affiliated with the [Department of Microbiology & Immunology](https://www.montana.edu/mbi/) and the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
 
 We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide-range of fields, including "data science". We champion diversity and seek to be active allies by maintaining an inclusive and collaborative work environment. If this sounds interesting, drop an email to <a href="mailto:organ@montana.edu">Chris</a>.
-<p>&nbsp</p>
+<p>&nbsp;</p>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU2.png">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/space.jpg">
