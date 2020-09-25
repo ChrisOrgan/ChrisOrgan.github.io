@@ -1,6 +1,6 @@
 # Macroevolution Lab Website
 
-This is the website of our academic research group at Montana State University University.
+This is the website of our academic research group at Montana State University University: https://chrisorgan.github.io/
 
-This website is based on the Allan Lab at Leiden University and is powered by Jekyll and some Bootstrap, Bootwatch.
+The website is based on the Allan Lab at Leiden University (https://www.allanlab.org/) and is powered by Jekyll and some Bootstrap, Bootwatch. Please feel free to repurpose.
 
