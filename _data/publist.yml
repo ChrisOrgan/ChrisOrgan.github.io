@@ -1,3 +1,12 @@
+- title: "<a https://academic.oup.com/sysbio>Evolutionary sample size and consilience in phylogenetic comparative analysis</a>"
+  image: EvoSampleSize.jpg
+  description: We show that PCM parameter estimation is poor in common biological scenarios due to small effective (evolutionary) sample sizes of independent character change. We suggest that researchers 1) Create study designs that evaluate a priori hypotheses and maximize evolutionary sample sizes; 2) assess the suitability of evolutionary models and introduce the phylogenetic imbalance ratio; and 3) evaluate evolutionary hypotheses with a consilience of evidence from disparate fields.
+  authors:  Gardner, J. and C. L. Organ; Systematic Biology (2021)
+  link:
+    url: https://academic.oup.com/sysbio
+  highlight: 1
+  news2:
+
 - title: "<a href='https://doi.org/10.1038/s41586-020-2561-9'>The tuatara genome reveals ancient features of amniote evolution</a>"
   image: Tuatara.png
   description: The tuatara (*Sphenodon punctatus*) — the only living member of the reptilian order Rhynchocephalia (Sphenodontia), once widespread across Gondwana — is an iconic species that is endemic to New Zealand. A key link to the now-extinct stem reptiles (from which dinosaurs, modern reptiles, birds and mammals evolved), the tuatara provides key insights into the ancestral amniotes...
