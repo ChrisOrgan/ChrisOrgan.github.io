@@ -60,7 +60,7 @@ The life that surrounds us today was created over billions of years of evolution
 
 We build and apply evolutionary models (known as phylogenetic comparative methods) to understand data from genomics, biomedicine, ecology, and the fossil record. With this approach we can now, in the post-genome era, answer comprehensive questions about how genotypes and phenotypes evolve over geologic time. As evolutionary biologists, our research seizes this opportunity to study how major evolutionary transformations occur across broad levels of biological organization, from genes and genomes to morphology. 
 
-We are proud members of the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) and are affiliated with the [Department of Microbiology & Immunology](https://www.montana.edu/mbi/) and the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
+We are proud members of the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) and are affiliated with the [Department of Microbiology & Cell Biology](https://www.montana.edu/mcb/) and the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
 
 We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide-range of fields, including "data science". We champion diversity and seek to be active allies by maintaining an inclusive and collaborative work environment. If this sounds interesting, drop an email to <a href="mailto:organ@montana.edu">Chris</a>.
 <p>&nbsp;</p>
