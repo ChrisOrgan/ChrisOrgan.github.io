@@ -57,7 +57,7 @@ Life on planet earth evolved over billions of years. Of all the species produced
 </div>
 
 
-We are broadly interested in the macroevolutionary patterns and process of genome biology, physiology, functional morphology, and ecology in a wide range of animals. Computational evolutionary modelling allows us to combine data from extant species with traits preserved in fossils to understand how these systems evolve. With this approach we can now, in the post-genome era, tackled new questions about how genotypes and phenotypes evolved across deep time. As evolutionary biologists, our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
+We are broadly interested in the macroevolutionary patterns and process of genome biology, physiology, functional morphology, and ecology in a wide range of animals. Computational evolutionary modelling allows us to combine data from extant species and fossils to understand how these systems evolve. With this approach we can now, in the post-genome era, tackle new questions about how genotypes and phenotypes evolved across deep time. Our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
 
 We are proud members of the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) and are affiliated with the [Department of Microbiology & Cell Biology](https://www.montana.edu/mcb/) and the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
 
