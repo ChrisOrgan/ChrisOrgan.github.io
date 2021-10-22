@@ -7,8 +7,7 @@ permalink: /
 ---
 
 
-The life that surrounds us today was created over billions of years of evolution. Because 99% of species to have ever lived are extinct, the data to understand this diversity is much shallower than it looks. We are a dynamic research group at [Montana State University](http://www.montana.edu) and our aim is to apply computational and data science approaches to elucidate how this diversity, and our place in the world, has evolved.
-
+Life on planet earth evolved over billions of years. Of all the species produced in that time, 99% are now extinct. A major challenge in biology is to understand how life works when 99% of our data is missing. We are a dynamic research group at [Montana State University](http://www.montana.edu) and our aim is to meet this challenge with evolutionary models that integrate biological and paleontological data.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -58,7 +57,7 @@ The life that surrounds us today was created over billions of years of evolution
 </div>
 
 
-We build and apply evolutionary models (known as phylogenetic comparative methods) to understand data from genomics, biomedicine, ecology, and the fossil record. With this approach we can now, in the post-genome era, answer comprehensive questions about how genotypes and phenotypes evolve over geologic time. As evolutionary biologists, our research seizes this opportunity to study how major evolutionary transformations occur across broad levels of biological organization, from genes and genomes to morphology. 
+We are broadly interested in the macroevolutionary patterns and process of genome biology, physiology, functional morphology, and ecology in a wide range of animals. Computational evolutionary modelling allows us to combine data from extant species with traits preserved in fossils to understand how these systems evolve. With this approach we can now, in the post-genome era, tackled new questions about how genotypes and phenotypes evolved across deep time. As evolutionary biologists, our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
 
 We are proud members of the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) and are affiliated with the [Department of Microbiology & Cell Biology](https://www.montana.edu/mcb/) and the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
 
