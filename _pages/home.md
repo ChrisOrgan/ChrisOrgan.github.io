@@ -1,5 +1,5 @@
 ---
-title: "MSU Macroevolution Lab - Home"
+title: "Deep Time Biology Lab:s Home"
 layout: homelay
 excerpt: "Macroevolution Lab at Montana State University."
 sitemap: false
@@ -31,7 +31,7 @@ Life on planet earth evolved over billions of years. Of all the species produced
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Histo.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/pyphy_logo.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sciphy_logo.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/approach.png" alt="Slide 4" />
@@ -59,12 +59,12 @@ Life on planet earth evolved over billions of years. Of all the species produced
 
 We are broadly interested in the macroevolutionary patterns and process of genome biology, physiology, functional morphology, and ecology in a wide range of animals. Computational evolutionary modelling allows us to combine data from extant species and fossils to understand how these systems evolve. With this approach we can now, in the post-genome era, tackle new questions about how genotypes and phenotypes evolved across deep time. Our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
 
-We are proud members of the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) and are affiliated with the [Department of Microbiology & Cell Biology](https://www.montana.edu/mcb/) and the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
+We are proud members of the [School of Biological Sciences](http://www.reading.ac.uk/biologicalsciences/) and are associated with the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
 
-We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide-range of fields, including "data science". We champion diversity and seek to be active allies by maintaining an inclusive and collaborative work environment. If this sounds interesting, drop an email to <a href="mailto:organ@montana.edu">Chris</a>.
+We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide-range of fields, including "data science". We champion diversity and seek to be active allies by maintaining an inclusive and collaborative work environment. If this sounds interesting, drop an email to <a href="mailto:c.l.organ@reading.ac.uk">Chris</a>.
 <p>&nbsp;</p>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU2.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UniversityReading.jpg">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/space.jpg">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOR_Logo.png">
 </figure>

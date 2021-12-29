@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Macroevolution Lab at Montana State University."
+excerpt: "Deep Time Biology Lab: News"
 sitemap: false
 permalink: /allnews.html
 ---

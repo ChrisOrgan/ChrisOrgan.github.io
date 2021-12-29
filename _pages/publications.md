@@ -1,7 +1,7 @@
 ---
-title: "Macroevolution Lab - Publications"
+title: "Deep Time Biology Lab: Publications"
 layout: gridlay
-excerpt: "Macroevolution Lab -- Publications"
+excerpt: "Deep Time Biology Lab: Publications"
 sitemap: false
 permalink: /publications/
 ---

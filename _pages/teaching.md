@@ -1,7 +1,7 @@
 ---
-title: "Macroevolution Lab - Teaching"
+title: "Deep Time Biology Lab: Teaching"
 layout: piclay
-excerpt: "Macroevolution Lab -- Teaching"
+excerpt: "Deep Time Biology Lab: Teaching"
 permalink: /teaching/
 ---
 

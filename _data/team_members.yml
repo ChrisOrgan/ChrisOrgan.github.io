@@ -1,7 +1,7 @@
 - name: Chris Organ
   photo: CO.png
   info: Research Professor (<a href="https://chrisorgan.github.io/downloads/OrganCV.pdf">CV</a>)
-  email: organ@montana.edu
+  email: c.l.organ@reading.ac.uk
   number_educ: 4
   education1: BS in <a href="http:https://www.chems.msu.edu/">Material Science</a> at Michigan State University
   education2: PhD in <a href="https://www.montana.edu/cbn/">Biology</a> at Montana State University with <a href="https://en.wikipedia.org/wiki/Jack_Horner_(paleontologist)">Jack Horner</a>
@@ -10,41 +10,26 @@
 
 - name: Jacob Gardner
   photo: JG.png
-  info: PhD Student (Earth Sciences)
-  email: jacob.gardner2@montana.edu
+  info: PhD Student (Department of Ecology and Evolutionary Biology)
+  email: jdru94@gmail.com
   number_educ: 3
   education1: BS Earth Sciences, Montana State University
-  education2: Interests include sexual selection, paleogenomics, computational biology
+  education2: Interests include hominid evolution, sexual selection, computational biology
   education3: Personal <a href="https://www.jacobdgardner.com">website</a> 
 
 - name: Kevin Surya
   photo: KS.png
-  info: PhD Student (Department of Microbiology & Immunology)
+  info: PhD Student (MSU Department of Mathematical Sciences)
   email: sadikin.kevin@gmail.com
   number_educ: 3
   education1: BS Honors Interdisciplinary Studies (Biology, Earth Sciences, Statistics)
   education2: Interests include CRISPR, evo-devo, phylogenetic modelling
   education3: Personal <a href="https://suryakevin.github.io/">website</a> 
 
-- name: Isaura Aguilar
-  photo: IA.png
-  info: Masters Student (Department of Earth Sciences)
-  email: i.aguilarpedrayes@student.montana.edu
-  number_educ: 2
-  education1: BS Universidad Aútonoma Metropolitana (Mexico City, Mexico)
-  education2: Interests include feeding behavior & ecology, cranio-dental anatomy
-
-- name: Lauren Keller
-  photo: Vasquez.png
-  info: BS Student (Department of Earth Sciences)
-  email: lnkeller620@gmail.com
-  number_educ: 1
-  education1: Interests include dinosaur and pterosaur evolution and paleoecology
-
-- name: Kilroy
+- name: Vasquez
   photo: Vasquez.png
   info: This could be you!
-  email: organ@montana.edu
+  email: c.l.organ@reading.ac.uk
   number_educ: 1
   education1: Interests include amazing things
 

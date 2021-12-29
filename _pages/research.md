@@ -1,7 +1,7 @@
 ---
-title: "Macroevolution Lab - Research"
+title: "Deep Time Biology Lab: Research"
 layout: textlay
-excerpt: "Macroevolution Lab -- Research"
+excerpt: "Deep Time Biology Lab: Research"
 sitemap: false
 permalink: /research/
 ---

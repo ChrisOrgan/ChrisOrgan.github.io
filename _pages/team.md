@@ -1,7 +1,7 @@
 ---
-title: "Macroevolution Lab - Team"
+title: "Deep Time Biology Lab: Team"
 layout: gridlay
-excerpt: "Macroevolution Lab: Team members"
+excerpt: "Deep Time Biology Lab: Team"
 sitemap: false
 permalink: /team/
 ---
