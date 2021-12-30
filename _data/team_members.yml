@@ -1,6 +1,6 @@
 - name: Chris Organ
   photo: CO.png
-  info: Research Professor (<a href="https://chrisorgan.github.io/downloads/OrganCV.pdf">CV</a>)
+  info: Assistant Professor
   email: c.l.organ@reading.ac.uk
   number_educ: 4
   education1: BS in <a href="http:https://www.chems.msu.edu/">Material Science</a> at Michigan State University
@@ -19,11 +19,11 @@
 
 - name: Kevin Surya
   photo: KS.png
-  info: PhD Student (MSU Department of Mathematical Sciences)
+  info: PhD Student -- Co-Advised (MSU Department of Mathematical Sciences)
   email: sadikin.kevin@gmail.com
   number_educ: 3
   education1: BS Honors Interdisciplinary Studies (Biology, Earth Sciences, Statistics)
-  education2: Interests include CRISPR, evo-devo, phylogenetic modelling
+  education2: Interests include evo-devo, genome biology, phylogenetic modelling
   education3: Personal <a href="https://suryakevin.github.io/">website</a> 
 
 - name: Vasquez
