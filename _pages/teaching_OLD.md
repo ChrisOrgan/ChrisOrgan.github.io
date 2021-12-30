@@ -1,10 +1,3 @@
----
-title: "Deep Time Biology Lab: Education"
-layout: piclay
-excerpt: "Deep Time Biology Lab: Education"
-permalink: /teaching/
----
-
 # Teaching
 
 ### Honors Evolution
