@@ -12,7 +12,7 @@ We host our code on GitHub [here](https://github.com/ChrisOrgan) (main) and [her
 
 ### Sci-Phy & Comparative Methods
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/sciphyMCMC.gif){: style="width: 400px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/sciphyMCMC.gif){: style="width: 400px; float: left; border: 20px"}
 
 Sci-Phy is a general-purpose library for the statistical analysis and modelling of evolved data using phylogenetic trees (phylogenetic comparative methods). Functions include phylogenetic EDA, plotting, and modelling of continuous and categorical data in reference to evolutionary (phylogenetic) trees. Most of the solutions are Bayesian and account for varying levels of uncertainty across the data and a tree or posterior distribution of trees. Sci-Phy is being developed in collaboration with [Andrew Meade](http://www.reading.ac.uk/biologicalsciences/about/staff/a-meade.aspx).
 
