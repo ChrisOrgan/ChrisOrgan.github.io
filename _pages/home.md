@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-Life on planet earth evolved over billions of years. Of all the species produced in that time, 99% are now extinct. A major challenge in biology is to understand how life works when 99% of our data is missing. We are a dynamic research group at [Montana State University](http://www.montana.edu) and our aim is to meet this challenge with evolutionary models that integrate biological and paleontological data.
+Life on planet earth evolved over billions of years. Of all the species produced in that time, 99% are now extinct. A major challenge in biology is to understand how life works when 99% of our data is missing. We are a dynamic research group at [the University of Reading](http://www.reading.ac.uk/) and our aim is to meet this challenge with evolutionary models that integrate biological and paleontological data.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
