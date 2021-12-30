@@ -12,13 +12,13 @@ permalink: /research/
 
 Our overarching research goal is to understand how the genotype and phenotype coevolve across major evolutionary transformations during the history of life. This is a central problem in macroevolutionary theory: the large-scale patterns and processes of evolution. We tackle this work with a wide range of data, from genomic sequencing and histology to physiology and the fossil record. Our team creates and applies bioinformatic and data science models to marry these multidisciplinary data under the principle of consilience.
 
-### PyPhy & Comparative Methods
+### Sci-Phy & Comparative Methods
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/pyphy_mcmc.gif){: style="width: 400px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/sciphyMCMC.gif){: style="width: 400px; float: left; border: 10px"}
 
-PyPhy is a general purpose library for the statistical analysis, modelling, and machine learning of evolved data using phylogenetic trees (phylogenetic comparative methods). Functions include phylogenetic EDA, plotting, and modelling of continuous and categorical data in reference to evolutionary (phylogenetic) trees. Most of the solutions are Bayesian (Hamiltonian Markov chain Monte Carlo) and account for varying levels of uncertainty across the data and a tree or posterior distribution of trees. PyPhy is being developed in collaboration with [Andrew Meade](http://www.reading.ac.uk/biologicalsciences/about/staff/a-meade.aspx) at the University of Reading, UK.
+Sci-Phy is a general purpose library for the statistical analysis, modelling, and machine learning of evolved data using phylogenetic trees (phylogenetic comparative methods). Functions include phylogenetic EDA, plotting, and modelling of continuous and categorical data in reference to evolutionary (phylogenetic) trees. Most of the solutions are Bayesian (Hamiltonian Markov chain Monte Carlo) and account for varying levels of uncertainty across the data and a tree or posterior distribution of trees. Sci-Phy is being developed in collaboration with [Andrew Meade](http://www.reading.ac.uk/biologicalsciences/about/staff/a-meade.aspx) at the University of Reading, UK.
 
-*The PyPhy logo to the left demonstrates a Bayesian MCMC sampler using [PyMC3](https://docs.pymc.io/) and [imcmc](https://github.com/ColCarroll/imcmc) (5 chains -- each chain is a different color, 8000 iterations).*
+*The Sci-Phy logo to the left demonstrates a Bayesian MCMC sampler using [PyMC3](https://docs.pymc.io/) and [imcmc](https://github.com/ColCarroll/imcmc) (5 chains -- each chain is a different color, 8000 iterations).*
 
 ### Macroevolutionary & Paleo- Genomics
 
