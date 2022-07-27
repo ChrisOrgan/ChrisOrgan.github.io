@@ -21,7 +21,7 @@
   photo: KS.png
   info: PhD Student -- Co-Advised (MSU Department of Mathematical Sciences)
   email: sadikin.kevin@gmail.com
-  number_educ: 2
+  number_educ: 3
   education1: BS Honors Interdisciplinary Studies (Biology, Earth Sciences, Statistics)
   education2: Interests include evo-devo, genome biology, phylogenetic modelling
   education3: Personal <a href="https://suryakevin.github.io/">website</a> 
@@ -30,10 +30,9 @@
   photo: IW.png
   info: Undergraduate student, School of Biological Sciences
   email: issy.walker@student.reading.ac.uk
-  number_educ: 1
+  number_educ: 2
   education1: Final year Zoology BSc at the University of Reading, with a placement year studying Field Conservation Science
   education2: Interested in macroevolution, disaster taxa, palaeoecology, growth, sexual selection, and biogeography
-
 
 - name: Vasquez
   photo: Vasquez.png
