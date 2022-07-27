@@ -96,6 +96,7 @@ permalink: /team/
 
 </div>
 
-
+<!--
 ## Administrative Support
 <a href="mailto:brenna.szott@montana.edu">Brenna Szott</a> and <a href="mailto:meredith.knowles@montana.edu">Meredith Knowles</a> provide amazing administrative support to our group and the Earth Sciences Department!
+-->
