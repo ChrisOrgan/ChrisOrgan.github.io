@@ -65,6 +65,4 @@ We are always looking for new team members with passion, grit, and an interest i
 <p>&nbsp;</p>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UofR_logo.svg" width='350'>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/space.jpg">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOR_Logo.jpg" width='200'>
 </figure>
