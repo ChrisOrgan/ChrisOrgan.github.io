@@ -6,7 +6,7 @@ permalink: /teaching/
 ---
 
 # Teaching & Mentoring
-Clear expectations, training plans, and quality assurance guidelines help all students thrive, and are essential for fostering equity and inclusion. A [2005 Sigma Xi survey]](https://www.sigmaxi.org/docs/default-source/Publications-Documents/postdoc-survey-highlights.pdf?sfvrsn=2) found that US postdocs whose professional development was organized and managed were more satisfied and productive (~25%) than those with little oversight. All students should be actively managed and mentored, not just postdocs. To that end, our laboratory benefits from:
+Clear expectations, training plans, and quality assurance guidelines help all students thrive, and are essential for fostering equity and inclusion. A [2005 Sigma Xi survey](https://www.sigmaxi.org/docs/default-source/Publications-Documents/postdoc-survey-highlights.pdf?sfvrsn=2) found that US postdocs whose professional development was organized and managed were more satisfied and productive (~25%) than those with little oversight. All students should be actively managed and mentored, not just postdocs. To that end, our laboratory benefits from:
 
 
 
