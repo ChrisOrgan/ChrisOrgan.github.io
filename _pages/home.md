@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-Life on planet earth evolved over billions of years. Of all the species produced in that time, 99% are now extinct. A major challenge in biology is to understand how life works when 99% of our data are missing. We are a dynamic research group at [the University of Reading](http://www.reading.ac.uk/) and our aim is to meet this challenge with evolutionary models that integrate biological and paleontological data.
+Life on planet earth evolved over billions of years. Of all the species produced in that time, 99% are now extinct. A major challenge in biology is to understand how life works when 99% of our data are missing. We are a dynamic research group at [the University of Reading](http://www.reading.ac.uk/) who aim to meet this challenge by integrating paleontological and biological data using evolutionary models.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -56,13 +56,12 @@ Life on planet earth evolved over billions of years. Of all the species produced
   </a>
 </div>
 
+We are broadly interested in the macroevolutionary patterns and processes of genome biology, physiology, functional morphology, and ecology in a wide range of extinct and extant animals. Computational modeling allows us to integrate data from fossils with extant species to understand how these systems evolve. With this approach, we can now, in the post-genome era, tackle new questions about genotypes and phenotypes in long-extinct species and their evolution across deep time. Our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
 
-We are broadly interested in the macroevolutionary patterns and process of genome biology, physiology, functional morphology, and ecology in a wide range of animals. Computational evolutionary modelling allows us to combine data from extant species and fossils to understand how these systems evolve. With this approach we can now, in the post-genome era, tackle new questions about how genotypes and phenotypes evolved across deep time. Our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
-
-We are proud members of the [School of Biological Sciences](http://www.reading.ac.uk/biologicalsciences/) and are associated with the [Department of Paleontology at the Museum of the Rockies](https://museumoftherockies.org/research/paleontology/).
-
-We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide-range of fields, including "data science". We champion diversity and seek to be active allies by maintaining an inclusive and collaborative work environment. If this sounds interesting, drop an email to <a href="mailto:c.l.organ@reading.ac.uk">Chris</a>.
+We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide range of fields, including paleontology and data science. We champion diversity and seek to be active allies by maintaining an inclusive and collaborative work environment. If this sounds interesting, drop an email to <a href="mailto:c.l.organ@reading.ac.uk">Chris</a>.
 <p>&nbsp;</p>
+<p class="aligncenter">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UofR_logo.svg" width='350'>
 </figure>
+</p>
