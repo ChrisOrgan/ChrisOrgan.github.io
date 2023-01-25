@@ -17,6 +17,6 @@ Clear expectations, training plans, and quality assurance guidelines help all st
 - [Setup guide & reading list]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Setup.v1.docx) to get started in the lab.
 - [Readme & Scripts]({{ site.url }}{{ site.baseurl }}/downloads/DataScience_Setup.zip) to install your data science environment.
 
-
+### Let's Share
 Feel free to use or adapt these for your own personal use or in your lab. They are under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
