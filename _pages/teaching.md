@@ -18,5 +18,5 @@ Clear expectations, training plans, and quality assurance guidelines help all st
 - [Readme & Scripts]({{ site.url }}{{ site.baseurl }}/downloads/DataScience_Setup.zip) to install your data science environment.
 
 ### Let's Share
-Feel free to use or adapt these for your own personal use or in your lab. They are under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+Feel free to use or adapt these documents for personal use or in your lab. They are under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
