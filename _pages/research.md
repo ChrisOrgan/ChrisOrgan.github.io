@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 # Research
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Graphical_Abstract.png){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Graphical_Abstract.png){: style="width: 400px; float: right; border: 10px"}
 
 Our research focuses on macroevolution and paleobiology. The overarching goal of our lab is to understand how the genotype and phenotype interact across major evolutionary transitions during the history of life. This is a central challenge in macroevolutionary theory that we tackle using evolutionary models to integrate a wide range of data, from fossils and paleogeography to genome sequencing.
 
@@ -35,7 +35,7 @@ We are interested in the macroevolutionary processes that give rise to biologica
 
 
 ### Student Participation
-![]({{ site.url }}{{ site.baseurl }}/images/respic/team,.jpg){: style="width: 200px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/team,.jpg){: style="width: 300px; float: right; border: 0px"}
 Students are welcome in our lab – no experience needed. You can learn the fundamentals of research on exciting topics like evolution, paleobiology, dinosaurs, physiology, genomics, and data science. You will have opportunities to become proficient in data science tools like Python, R, and computer modelling, which are in high demand across academia and industry. You can expect to be supported along a gradual progression of responsibility, starting with small, semester-length projects that focus on fundamental technical skills, knowledge, and research culture. And if you are dedicated and have grit, you could contribute to scientific publications. If this sounds interesting, drop an email to <a href="mailto:c.l.organ@reading.ac.uk">Chris</a>.
 
 
