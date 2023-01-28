@@ -60,8 +60,7 @@ We are broadly interested in the macroevolutionary patterns and processes of ver
 
 We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide range of fields, including paleontology and data science. We champion diversity and seek to be active allies by maintaining an inclusive and collaborative work environment. If this sounds interesting, drop an email to <a href="mailto:c.l.organ@reading.ac.uk">Chris</a>.
 <p>&nbsp;</p>
-<p class="aligncenter">
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UofR_logo.svg" width='350'>
-</figure>
-</p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dummy.png" width='50'>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UofR_logo.svg" width='350'>
+
+
