@@ -31,7 +31,7 @@ We are interested in the macroevolutionary processes that give rise to biologica
 
 *The figure to above shows a graphical abstract for our Living Fossils project. Why do some lineages evolve very slowly (1st panel on the left)? We can answer this by integrating data from paleontology, genomics, and ecology (2nd panel). Bayesian models combine these data using computational platforms in Python (3rd panel). We expect to develop novel models and discover traits associated with evolutionary stasis, as well as evolutionary processes relevant to biodiversity and climate change (4th panel).*
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/team,.jpg){: style="width: 300px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/team,.jpg){: style="width: 325px; float: right; border: 0px"}
 ### Student Participation
 Students are welcome in our lab – no experience needed. You can learn the fundamentals of research on exciting topics like evolution, paleobiology, dinosaurs, physiology, genomics, and data science. You will have opportunities to become proficient in data science tools like Python, R, and computer modelling, which are in high demand across academia and industry. You can expect to be supported along a gradual progression of responsibility, starting with small, semester-length projects that focus on fundamental technical skills, knowledge, and research culture. And if you are dedicated and have grit, you could contribute to scientific publications. If this sounds interesting, drop an email to <a href="mailto:c.l.organ@reading.ac.uk">Chris</a>.
 
