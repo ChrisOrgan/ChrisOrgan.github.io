@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Graphical_Abstract.png){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Graphical_Abstract.png){: style="width: 250px; float: right; border: 10px"}
 # Research
 Our research focuses on macroevolution and paleobiology. The overarching goal of our lab is to understand how the genotype and phenotype interact across major evolutionary transitions during the history of life. This is a central challenge in macroevolutionary theory that we tackle using evolutionary models to integrate a wide range of data, from fossils and paleogeography to genome sequencing.
 
@@ -24,13 +24,13 @@ How do species adapt to new environmental challenges, ecological interactions, a
 
 *The figure to the right shows an analysis of lever arm (gear ratio) evolution for the primary forelimb retractor muscles in dinosaurs. Warmer colors are increased, and cooler colors are decreased, evolutionary rates. Numbers indicate the median estimated rate shifts (posterior probability). Silhouette colors correspond to points in the lower-right plot. Note that despite being smaller, the arms of small, feathered dinosaurs provided more torque and evolved at faster rates. Despite orders-of-magnitude increases in body size, the lever arms of gigantic sauropods evolve gradually.*
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/living_fossils.png){: style="width: 600px; float: left; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/living_fossils.png){: style="width: 500px; float: left; border: 0px"}
 ### Paleobiology & Paleogenomics
 We are interested in the macroevolutionary processes that give rise to biological traits in extinct species, including genome biology and physiology. We pursue this by integrating molecular, genomic, and fossil data. For example, Chris' work on the coelacanth genome revealed genetic adaptations in the urea cycle that allowed the water-to-land transition in vertebrates roughly 375 mya, consistent with fossil evidence (Amemiya et al., Nature 2013). Bone innervation was also crucial for the vertebrate diaspora onto land. It is essential in regulating bone growth, metabolism, and the perception of touch and pain, yet we know virtually nothing of bone innervation outside humans. We are currently developing a comparative study of bone innervation using micro-CT scans of bone from extant species and fossil vertebrates. Lastly, we are currently developing a project focused on “living fossils” that will shed light on why some lineages evolve so slowly. This follows recent work Chris did on the slowly evolving genome of the tuatara, a 'living fossil' reptile endemic to New Zealand (Gemmel et al., Nature 2020).
 
 *The figure to above shows a graphical abstract for our Living Fossils project. Why do some lineages evolve very slowly (1st panel on the left)? We can answer this by integrating data from paleontology, genomics, and ecology (2nd panel). Bayesian models combine these data using computational platforms in Python (3rd panel). We expect to develop novel models and discover traits associated with evolutionary stasis, as well as evolutionary processes relevant to biodiversity and climate change (4th panel).*
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/team,.jpg){: style="width: 400px; float: right; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/team,.jpg){: style="width: 300px; float: right; border: 0px"}
 ### Student Participation
 Students are welcome in our lab – no experience needed. You can learn the fundamentals of research on exciting topics like evolution, paleobiology, dinosaurs, physiology, genomics, and data science. You will have opportunities to become proficient in data science tools like Python, R, and computer modelling, which are in high demand across academia and industry. You can expect to be supported along a gradual progression of responsibility, starting with small, semester-length projects that focus on fundamental technical skills, knowledge, and research culture. And if you are dedicated and have grit, you could contribute to scientific publications. If this sounds interesting, drop an email to <a href="mailto:c.l.organ@reading.ac.uk">Chris</a>.
 
