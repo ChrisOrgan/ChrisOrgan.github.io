@@ -30,7 +30,7 @@ In collaboration with [Andrew Meade](http://www.reading.ac.uk/biologicalsciences
 
 ### Paleobiology & Paleogenomics
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/living_fossils.jpg){: style="width: 500px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/living_fossils.png){: style="width: 500px; float: left; border: 10px"}
 
 We are interested in the macroevolutionary processes that give rise to biological traits in extinct species, including genome biology and physiology. We pursue this by integrating molecular, genomic, and fossil data. For example, Chris' work on the coelacanth genome revealed genetic adaptations in the urea cycle that allowed the water-to-land transition in vertebrates roughly 375 mya, consistent with fossil evidence (Amemiya et al., Nature 2013). Bone innervation was also crucial for the vertebrate diaspora onto land. It is essential in regulating bone growth, metabolism, and the perception of touch and pain, yet we know virtually nothing of bone innervation outside humans. We are currently developing a comparative study of bone innervation using micro-CT scans of bone from extant species and fossil vertebrates. Lastly, we are currently developing a project focused on “living fossils” that will shed light on why some lineages evolve so slowly. This follows recent work Chris did on the slowly evolving genome of the tuatara, a 'living fossil' reptile endemic to New Zealand (Gemmel et al., Nature 2020).
 
