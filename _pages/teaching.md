@@ -6,11 +6,11 @@ permalink: /teaching/
 ---
 
 # Teaching & Mentoring
-Clear expectations, training plans, and quality assurance guidelines help all students thrive, and are essential for fostering equity and inclusion. A [2005 Sigma Xi survey](https://www.sigmaxi.org/docs/default-source/Publications-Documents/postdoc-survey-highlights.pdf?sfvrsn=2) found that US postdocs whose professional development was organized and managed were more satisfied and productive (~25%) than those with little oversight. All students should be actively managed and mentored, not just postdocs. Here are some resources to help. They are short and to the point (such documents are often overly long, which inhibits their practical use).
+Clear expectations, training plans, and quality assurance guidelines help all students thrive, and are essential for fostering equity and inclusion. A [2005 Sigma Xi survey](https://www.sigmaxi.org/docs/default-source/Publications-Documents/postdoc-survey-highlights.pdf?sfvrsn=2) found that US postdocs whose professional development was organized and managed were more satisfied and productive (~25%) than those with little oversight. All students should be actively managed and mentored, not just postdocs. Here are some resources to help. They are short and to the point (these things are often overly long, which inhibits their practical use).
 
 ### Core Lab Resources for Students
 - [Expectation guide]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Expectations.v1.5.docx) to help you understand what we can expect from each other.
-- [Quality assurance guide]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Research.v1.6.docx) ensures that we are good stewards for our lab mates, our university, and our community.
+- [Quality assurance guide]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Research.v1.6.docx) provides advice for developing projects and outlines best pratices for collecting, organizing, and analy that we are good stewards for our lab mates, our university, and our community.
 - [Individualized training plans]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Training_Plan.v1.5.docx) and evaluations help you stay organized to meet career goals.
 
 ### Getting Started
