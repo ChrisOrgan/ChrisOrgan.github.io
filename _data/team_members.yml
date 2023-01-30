@@ -34,10 +34,18 @@
   education1: Final year Zoology BSc at the University of Reading, with a placement year studying Field Conservation Science
   education2: Interested in macroevolution, disaster taxa, palaeoecology, growth, sexual selection, and biogeography
 
+- name: Uhura
+  photo: Uhura.jpg
+  info: This could be you!
+  email: c.l.organ@reading.ac.uk
+  number_educ: 1
+  education1: Interests include amazing things
+
+<!--
 - name: Vasquez
   photo: Vasquez.png
   info: This could be you!
   email: c.l.organ@reading.ac.uk
   number_educ: 1
   education1: Interests include amazing things
-
+-->
