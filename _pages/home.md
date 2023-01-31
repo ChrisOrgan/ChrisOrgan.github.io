@@ -32,15 +32,15 @@ Life on planet earth evolved over billions of years. Of all the species produced
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/model.jpg" alt="Slide 1" />
         </div>
-        <div class="item">     
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TuataraNature2020.png" alt="Slide 6" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bergy.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BiogeoNat2018.jpg" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TuataraNature2020.png" alt="Slide 6" />
-        </div>       
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/field_Saurornitholestes.jpg" alt="Slide 5" />
+        </div>   
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/prediction.png" alt="Slide 7" />
         </div>
