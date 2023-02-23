@@ -1,3 +1,12 @@
+- title: "<a https://www.frontiersin.org/articles/10.3389/fviro.2023.1066147/full?field=&journalName=Frontiers_in_Virology&id=1066147'>Detecting punctuated evolution in SARS-CoV-2 over the first year of the pandemic</a>"
+  image: CovidPunc.jpg
+  description:  We show that ~13% of SARS-CoV-2 genomic divergence up to May 2020 is attributable to lineage branching events (punctuated evolution). The net number of branching events along lineages predicts ~5% of the deviation from the strict molecular clock. We did not detect punctuated evolution in SARS-CoV-1.
+  authors:  Surya, K., J. D. Gardner, and C. L. Organ; Frontiers in Virology (2023)
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fviro.2023.1066147/full?field=&journalName=Frontiers_in_Virology&id=1066147
+  highlight: 1
+  news2:
+
 - title: "<a href='https://doi.org/10.1093/sysbio/syab017'>Evolutionary sample size and consilience in phylogenetic comparative analysis</a>"
   image: EvoSampleSize.jpg
   description: We show that PCM parameter estimation is poor in common biological scenarios due to small effective (evolutionary) sample sizes of independent character change. We suggest that researchers 1) Create study designs that evaluate a priori hypotheses and maximize evolutionary sample sizes; 2) assess the suitability of evolutionary models and introduce the phylogenetic imbalance ratio; and 3) evaluate evolutionary hypotheses with a consilience of evidence from disparate fields.
