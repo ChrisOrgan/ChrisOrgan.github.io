@@ -17,18 +17,18 @@
   education2: Interests include macroevolution, genome biology, and phylogenetic comparative methods
   education3: Personal <a href="https://suryakevin.github.io/">website</a> 
 
-- name: Issy Walker
-  photo: IW.png
-  info: Undergraduate student, School of Biological Sciences
-  email: issy.walker@student.reading.ac.uk
-  number_educ: 2
-  education1: Final year Zoology BSc at the University of Reading, with a placement year studying Field Conservation Science
-  education2: Interested in macroevolution, disaster taxa, palaeoecology, growth, sexual selection, and biogeography
+- name: Jack Prall
+  photo: JP.jpg
+  info: PhD Student, Department of Earth Sciences (MSU)
+  email: prall.jack17@gmail.com
+  number_educ: 3
+  education1: BS Earth Sciences
+  education2: Interests include the fossil record and macroevolution
 
 - name: Uhura
   photo: Uhura.jpg
   info: This could be you!
-  email: c.l.organ@reading.ac.uk
+  email: organ@montana.edu
   number_educ: 1
   education1: Interests include amazing things
 
