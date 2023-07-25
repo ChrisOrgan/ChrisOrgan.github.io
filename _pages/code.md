@@ -8,7 +8,7 @@ permalink: /code/
 
 # Code
 
-We host our code on GitHub [here](https://github.com/ChrisOrgan) (main) and [here](https://github.com/JDGardner94) (Jacob Gardner). Code under active develop are in private repos, but please drop us an <a href="mailto:c.l.organ@reading.ac.uk">email</a> if you are interested in testing or collaborating.
+We host our code on GitHub [here](https://github.com/ChrisOrgan). Code under active develop are in private repos, but please drop us an <a href="mailto:organ@montana.edu">email</a> if you are interested in testing or collaborating.
 
 ### Sci-Phy (Science with Phylogenies)
 
