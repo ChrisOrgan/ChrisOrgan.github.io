@@ -1,7 +1,7 @@
 - name: Chris Organ
   photo: CO2.png
-  info: Assistant Professor, School of Biological Sciences
-  email: c.l.organ@reading.ac.uk
+  info: Assistant Professor
+  email: organ@montana.edu
   number_educ: 4
   education1: BS in <a href="https://www.chems.msu.edu/">Material Science</a> at Michigan State University
   education2: PhD in <a href="https://www.montana.edu/cbn/">Biology</a> at Montana State University with <a href="https://www.chapman.edu/our-faculty/jack-horner">Jack Horner</a>
@@ -21,7 +21,7 @@
   photo: JP.jpg
   info: PhD Student, Department of Earth Sciences (MSU)
   email: prall.jack17@gmail.com
-  number_educ: 3
+  number_educ: 2
   education1: BS Earth Sciences
   education2: Interests include the fossil record and macroevolution
 
