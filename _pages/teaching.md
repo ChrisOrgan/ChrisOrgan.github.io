@@ -15,7 +15,7 @@ Clear expectations, training plans, and quality assurance guidelines help all st
 
 ### Core Lab Resources for Students
 - [Expectation guide]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Expectations.v1.5.docx) to help you understand what we can expect from each other.
-- [Quality assurance guide (Research)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Research.v1.6.docx) provides advice for developing projects and outlines best practices for collecting, organizing, and analyzing data.
+- [Quality assurance guide (Research)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Research.v1.7.docx) provides advice for developing projects and outlines best practices for collecting, organizing, and analyzing data.
 - [Individualized training plans]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Training_Plan.v1.5.docx) and evaluations help you stay organized to meet career goals.
 
 ### Let's Share
