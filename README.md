@@ -1,4 +1,4 @@
-# Macroevolution Lab Website
+# Deep Time Biology Lab Website
 
 This is the website of our academic research group at Montana State University University: https://chrisorgan.github.io/
 
