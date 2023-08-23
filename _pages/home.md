@@ -60,8 +60,8 @@ We are broadly interested in the macroevolutionary patterns and processes of ver
 We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide range of fields, including paleontology and data science. If this sounds interesting, drop an email to <a href="mailto:organ@montana.edu">Chris</a>.
 <p>&nbsp;</p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" width='80'>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU_Logo2.svg" width='200'>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU_Logo2.png" width='200'>
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" width='50'>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOR_Logo.svg" width='200'>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOR_Logo.png" width='200'>
 
 
