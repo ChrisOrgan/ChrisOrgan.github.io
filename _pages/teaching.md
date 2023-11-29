@@ -10,13 +10,13 @@ Clear expectations, training plans, and quality assurance guidelines help all st
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teachpic/students_field.jpg){: style="width: 400px; float: right; border: 0px"}
 ### Getting Started
-- [Orientation]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Orientation.v1.docx) to get started in the lab.
+- [Orientation]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Orientation.v1.2.docx) to get started in the lab.
 - [Data science setup]({{ site.url }}{{ site.baseurl }}/downloads/DataScience_Setup.zip) to install your data science environment.
 
 ### Core Lab Resources for Students
 - [Expectation guide]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Expectations.v1.5.docx) to help you understand what we can expect from each other.
 - [Quality assurance guide (Research)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Research.v1.7.docx) provides advice for developing projects and outlines best practices for collecting, organizing, and analyzing data.
-- [Individualized training plans]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Training_Plan.v1.5.docx) and evaluations help you stay organized to meet career goals.
+- [Individualized training plans]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Training_Plan.v1.7.docx) and evaluations help you stay organized to meet career goals.
 
 ### Let's Share
 Feel free to use or adapt these documents for personal use or in your lab. They are under a [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).

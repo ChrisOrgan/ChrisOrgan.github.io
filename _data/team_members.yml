@@ -10,7 +10,7 @@
 
 - name: Kevin Surya
   photo: KS.png
-  info: PhD Student, Department of Mathematical Sciences (MSU)
+  info: PhD Student, Department of Mathematical Sciences
   email: kevinsurya@montana.edu
   number_educ: 3
   education1: BS Honors Interdisciplinary Studies (Biology, Earth Sciences, Statistics)
@@ -19,11 +19,18 @@
 
 - name: Jack Prall
   photo: JP.jpg
-  info: PhD Student, Department of Earth Sciences (MSU)
+  info: PhD Student, Department of Earth Sciences
   email: prall.jack17@gmail.com
   number_educ: 2
   education1: BS Earth Sciences
   education2: Interests include the fossil record and macroevolution
+
+- name: Liam Feigin
+  photo: LF.jpg
+  info: Undergrad student, Chemical and Biological Engineering Department
+  email: liamfeigin@gmail.com
+  number_educ: 1
+  education1: Interests include genome evolution and biological archaeology
 
 - name: Uhura
   photo: Uhura.jpg
