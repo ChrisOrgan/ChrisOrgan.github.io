@@ -30,7 +30,7 @@ Life on planet earth evolved over billions of years. Of all the species produced
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/model.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BigAl.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Rooneyia.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TuataraNature2020.png" alt="Slide 6" />
@@ -42,7 +42,7 @@ Life on planet earth evolved over billions of years. Of all the species produced
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Histo.jpg" alt="Slide 2" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/prediction.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sciphy_logo.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
