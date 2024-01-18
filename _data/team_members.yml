@@ -41,6 +41,14 @@
   number_educ: 1
   education1: Interests include genome evolution and biological archaeology
 
+- name: Chloe Whitnack
+  photo: CW.jpg
+  info: Undergrad student, Department of Earth Science
+  email: chloe.whitnack@gmail.com
+  number_educ: 1
+  education1: Interests include paleontology, evolution, and ornithology
+
+
 - name: Uhura
   photo: Uhura.jpg
   info: This could be you!
