@@ -23,7 +23,7 @@
   email: prall.jack17@gmail.com
   number_educ: 2
   education1: BS in Earth Sciences at Montana State University
-  education2: Interests include the fossil record and macroevolution
+  education2: Interested in the fossil record and macroevolution
 
 - name: Emi Bender
   photo: EB.jpg
@@ -39,7 +39,7 @@
   info: Undergrad student, Department of Chemical and Biological Engineering
   email: liamfeigin@gmail.com
   number_educ: 1
-  education1: Interests include genome evolution and biological archaeology
+  education1: Interested in genome evolution and biological archaeology
 
 - name: Chloe Whitnack
   photo: CW.jpg
@@ -48,6 +48,12 @@
   number_educ: 1
   education1: Interests include paleontology, evolution, and ornithology
 
+- name: Therese Drake
+  photo: TD.jpg
+  info: Undergrad student, Department of Letters and Science
+  email: theresemdrake@gmail.com
+  number_educ: 1
+  education1: Interests include plant genome evolution, genetic engineering, and conservation biology
 
 - name: Uhura
   photo: Uhura.jpg
