@@ -1,16 +1,25 @@
+- title: "<a href='https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2024.0235'>The evolution and ecology of gigantism in terror birds (Aves, Phorusrhacidae)</a>"
+  image: BR.jpg
+  description:  We found that the evolution and displacement of body size drove terror bird niche partitioning and competitive exclusion controlled phorusrhacid diversity. 
+  authors:  Thomas W. LaBarge, T. W., J. D. Gardner, and C. L. Organ. Proceedings of the Royal Society, Biological Sciences (2024)
+  link:
+    url: https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2024.0235
+  highlight: 1
+  news2:
+
 - title: "<a href='https://www.nature.com/articles/s41467-024-46843-2'>Global latitudinal gradients and the evolution of body size in dinosaurs and mammals</a>"
   image: BR.jpg
   description:  We tested for Bergmann’s rule in Mesozoic dinosaurs and mammaliaforms that radiated within relatively temperate global climate regimes. We found that the rule did not operate in the Mesozoic, nor in modern mammals. 
-  authors:  Wilson, L., J. D. Gardner, J. P. Wilson, A. Farnsworth, Z. Perry, P. S. Druckenmiller, G. M. Erickson, and C. L. Organ. (2024)
+  authors:  Wilson, L., J. D. Gardner, J. P. Wilson, A. Farnsworth, Z. Perry, P. S. Druckenmiller, G. M. Erickson, and C. L. Organ. Nature Communications (2024)
   link:
-    url: https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1713
+    url: https://www.nature.com/articles/s41467-024-46843-2
   highlight: 1
   news2:
 
 - title: "<a href='https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1713'>The coevolution of rostral keratin and tooth distribution in dinosaurs</a>"
   image: dinobeaks.jpg
   description:  We use rostral jawbone surface texture as a proxy for rostral keratin covering and phylogenetic comparative models to test for the influence of rostral keratin on toothrow distribution in Mesozoic dinosaurs. 
-  authors:  Aguilar-Pedrayes, I., J. D. Gardner, and C. L. Organ; Proceedings of the Royal Society B (2024)
+  authors:  Aguilar-Pedrayes, I., J. D. Gardner, and C. L. Organ. Proceedings of the Royal Society B (2024)
   link:
     url: https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1713
   highlight: 1
@@ -19,7 +28,7 @@
 - title: "<a href='https://www.frontiersin.org/articles/10.3389/fviro.2023.1066147/full?field=&journalName=Frontiers_in_Virology&id=1066147'>Detecting punctuated evolution in SARS-CoV-2 over the first year of the pandemic</a>"
   image: CovidPunc.jpg
   description:  We show that ~13% of SARS-CoV-2 genomic divergence up to May 2020 is attributable to lineage branching events (punctuated evolution). The net number of branching events along lineages predicts ~5% of the deviation from the strict molecular clock. We did not detect punctuated evolution in SARS-CoV-1.
-  authors:  Surya, K., J. D. Gardner, and C. L. Organ; Frontiers in Virology (2023)
+  authors:  Surya, K., J. D. Gardner, and C. L. Organ. Frontiers in Virology (2023)
   link:
     url: https://www.frontiersin.org/articles/10.3389/fviro.2023.1066147/full?field=&journalName=Frontiers_in_Virology&id=1066147
   highlight: 1
@@ -28,7 +37,7 @@
 - title: "<a href='https://doi.org/10.1093/sysbio/syab017'>Evolutionary sample size and consilience in phylogenetic comparative analysis</a>"
   image: EvoSampleSize.jpg
   description: We show that PCM parameter estimation is poor in common biological scenarios due to small effective (evolutionary) sample sizes of independent character change. We suggest that researchers 1) Create study designs that evaluate a priori hypotheses and maximize evolutionary sample sizes; 2) assess the suitability of evolutionary models and introduce the phylogenetic imbalance ratio; and 3) evaluate evolutionary hypotheses with a consilience of evidence from disparate fields.
-  authors:  Gardner, J. and C. L. Organ; Systematic Biology (2021)
+  authors:  Gardner, J. and C. L. Organ. Systematic Biology (2021)
   link:
     url: https://academic.oup.com/sysbio
   highlight: 1
