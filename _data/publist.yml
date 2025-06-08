@@ -1,3 +1,21 @@
+- title: "<a href='https://www.science.org/doi/10.1126/science.adt5189'>Arctic bird nesting traces back to the Cretaceous [Cover Article]</a>"
+  image: Artict_Nesting.png
+  description:  We discovered the oldest evidence of birds nesting at polar latitudes, revealing that Cretaceous birds were already breeding in seasonal Arctic environments long before modern birds. Way to go Lauren!
+  authors:  Lauren N. Wilson, Daniel T. Ksepka, John P. Wilson, et al. Science (2025)
+  link:
+    url: https://www.science.org/doi/10.1126/science.adt5189
+  highlight: 1
+  news2:
+
+- title: "<a href='https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x'>Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology</a>"
+  image: samdata_diffanal.png
+  description:  In this large-scale study we showed that ecologists and evolutionary biologists analyzing the same datasets often produce widely varying results, highlighting how researcher decisions strongly influence scientific outcomes.
+  authors:  Elliot Gould, Hannah S. Fraser, Timothy H. Parker, et al.
+  link:
+    url: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x
+  highlight: 1
+  news2:
+
 - title: "<a href='https://royalsocietypublishing.org/doi/epdf/10.1098/rspb.2024.0235'>The evolution and ecology of gigantism in terror birds (Aves, Phorusrhacidae)</a>"
   image: terrorbird.jpg
   description:  We found that the evolution and displacement of body size drove terror bird niche partitioning and competitive exclusion controlled phorusrhacid diversity (image credit Saul Marchese).
