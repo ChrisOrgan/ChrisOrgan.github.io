@@ -43,6 +43,14 @@
   education2:  MS in Evolutionary Biology at NC State
   education3: Interests include the dinosaurs, computational biology, and macroevolution
 
+- name: Anna Perella
+  photo: AP.png
+  info: PhD Student, Department of Earth Sciences
+  email: anna.perella@student.montana.edu
+  number_educ: 2
+  education1:  BS in Biology at Marshall University
+  education3: Interests include the diversity, ecology, and reproductive habits of sauropods 
+
 - name: Liam Feigin
   photo: LF.png
   info: Undergrad student, Department of Chemical and Biological Engineering
