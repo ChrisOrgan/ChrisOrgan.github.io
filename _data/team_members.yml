@@ -39,8 +39,8 @@
   info: PhD Student, Department of Earth Sciences
   email: Bender.er3@gmail.com
   number_educ: 3
-  education1:  BS in Ecology and Evolutionary Biology at NC State
-  education2:  MS in Evolutionary Biology at NC State
+  education1: BS in Ecology and Evolutionary Biology at NC State
+  education2: MS in Evolutionary Biology at NC State
   education3: Interests include the dinosaurs, computational biology, and macroevolution
 
 - name: Anna Perella
@@ -48,15 +48,8 @@
   info: PhD Student, Department of Earth Sciences
   email: anna.perella@student.montana.edu
   number_educ: 2
-  education1:  BS in Biology at Marshall University
-  education3: Interests include the diversity, ecology, and reproductive habits of sauropods 
-
-- name: Liam Feigin
-  photo: LF.png
-  info: Undergrad student, Department of Chemical and Biological Engineering
-  email: liamfeigin@gmail.com
-  number_educ: 1
-  education1: Interested in genome evolution and biological archaeology
+  education1: BS in Biology at Marshall University
+  education2: Interests include the diversity, ecology, and reproductive habits of sauropods 
 
 - name: Chloe Whitnack
   photo: CW.jpg
