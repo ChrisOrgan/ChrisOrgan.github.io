@@ -55,9 +55,9 @@ Life on planet earth evolved over billions of years. Of all the species produced
   </a>
 </div>
 
-We are broadly interested in the macroevolutionary patterns and processes of vertebrate genome biology, physiology, functional morphology, and ecology. Computational modeling allows us to integrate data from fossils with extant species to understand how these systems evolve. With this approach, we can now, in the post-genome era, tackle new questions about genotypes and phenotypes in long-extinct species and their evolution across deep time. Our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
+We are interested in the macroevolution of genome biology, physiology, functional morphology, and ecology. Computational modeling allows us to integrate data from fossils with extant species to understand how these systems evolve. With this approach, we can now, in the post-genome era, tackle new questions about genotypes and phenotypes in long-extinct species and their evolution across deep time. Our research seizes this opportunity to study major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
 
-We are always looking for new team members with passion, grit, and an interest in smashing academic boundaries. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide range of fields, including paleontology and data science. If this sounds interesting, drop an email to <a href="mailto:organ@montana.edu">Chris</a>.
+We are always looking for new team members with passion, grit, and interests that transcend tradition academic boundaries and dogma. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide range of fields, including genomics, paleontology, and data science. If this sounds interesting, drop an email to <a href="mailto:organ@montana.edu">Chris</a>.
 <p>&nbsp;</p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/dummy.png" width='80'>
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MSU_Logo2.png" width='200'>
