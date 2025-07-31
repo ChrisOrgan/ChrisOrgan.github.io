@@ -7,7 +7,7 @@
   highlight: 1
   news2:
 
-  - title: "<a href='https://www.nature.com/articles/s41467-025-61036-1'>Phylogenetically informed predictions outperform predictive equations in real and simulated data</a>"
+- title: "<a href='https://www.nature.com/articles/s41467-025-61036-1'>Phylogenetically informed predictions outperform predictive equations in real and simulated data</a>"
   image: PhyloPred.png
   description:  We show how to greatly improve biological predictions by taking evolution into account.
   authors: Jacob D. Gardner, Joanna Baker, Chris Venditti & Chris L. Organ. Nature Communications (2025)
