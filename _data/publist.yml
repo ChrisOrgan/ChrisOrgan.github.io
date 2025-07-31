@@ -7,10 +7,19 @@
   highlight: 1
   news2:
 
+  - title: "<a href='https://www.nature.com/articles/s41467-025-61036-1'>Phylogenetically informed predictions outperform predictive equations in real and simulated data</a>"
+  image: PhyloPred.png
+  description:  We show how to greatly improve biological predictions by taking evolution into account.
+  authors: Jacob D. Gardner, Joanna Baker, Chris Venditti & Chris L. Organ. Nature Communications (2025)
+  link:
+    url: https://www.nature.com/articles/s41467-025-61036-1
+  highlight: 1
+  news2:
+
 - title: "<a href='https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x'>Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology</a>"
   image: samdata_diffanal.png
   description:  In this large-scale study we showed that ecologists and evolutionary biologists analyzing the same datasets often produce widely varying results, highlighting how researcher decisions strongly influence scientific outcomes.
-  authors:  Elliot Gould, Hannah S. Fraser, Timothy H. Parker, et al. BMC Biology (2025)
+  authors: Elliot Gould, Hannah S. Fraser, Timothy H. Parker, et al. BMC Biology (2025)
   link:
     url: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x
   highlight: 1
