@@ -17,15 +17,6 @@
   education2: B.S. Evolutionary Biology and Zoology at<a href="https://www.wisc.edu/"> University of Wisconsin, Madison</a>
   education3: Interests include omics-based discovery, evolution, comparative biology
 
-- name: Stephanie Amber Whitebone
-  photo: AW.png
-  info: Postdoctoral Fellow
-  email: sawhitebone@gmail.com
-  number_educ: 3
-  education1: PhD in Evolutionary Biology at <a href="https://www.une.edu.au/">University of New England (AU)</a>
-  education2: Master's in Ecology and Evolutionary Biology at <a href="https://www.ucalgary.ca/">University of Calgary</a>
-  education3: Interests include vertebrate evolution, biomechanics, histology, and neuroskeletal biology
-
 - name: Kevin Surya
   photo: KS.png
   info: PhD Student, Department of Mathematical Sciences
@@ -62,17 +53,31 @@
 
 - name: Chloe Whitnack
   photo: CW.jpg
-  info: Undergrad student, Department of Earth Science
+  info: Undergrad student, Department of Earth Sciences
   email: chloe.whitnack@gmail.com
   number_educ: 1
   education1: Interests include paleontology, evolution, and ornithology
 
 - name: Andrew Victorino
   photo: AV.jpg
-  info: Undergrad student, Department of Earth Science
+  info: Undergrad student, Department of Earth Sciences
   email: andrewdvictorino@gmail.com
   number_educ: 1
   education1: Interested in dinosaur paleobiology, genome evolution, and the fossil record
+
+- name: James Meade
+  photo: JM.png
+  info: Undergrad student, Department of Earth Sciences
+  email: james.meade1@student.montana.edu
+  number_educ: 1
+  education1: Interested in paleobiology, evolution, fossils, and Abelisaurids
+
+- name: Carden Nerem
+  photo: AV.jpg
+  info: Undergrad student, Department of Earth Science
+  email: cardennerem@gmail.com
+  number_educ: 1
+  education1: Interested in paleontology, evolutionary biology, macroevolution, and the fossil record
 
 - name: Uhura
   photo: Uhura.jpg

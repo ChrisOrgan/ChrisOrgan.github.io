@@ -74,14 +74,14 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>PhD student advisees</h4>
+<h4>Postdocs & Research Associates</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master student advisees</h4>
+<h4>Graduate students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
