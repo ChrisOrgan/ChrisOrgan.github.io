@@ -65,6 +65,13 @@
   number_educ: 1
   education1: Interested in dinosaur paleobiology, genome evolution, and the fossil record
 
+- name: Veotas Han
+  photo: VH.png
+  info: Undergrad student, Department of Earth Sciences
+  email: v68n627@student.montana.edu
+  number_educ: 1
+  education1: Interested in Mesozoic and Cenozoic vertebrates, paleobiology, evolution, & phylogenetic comparative methods
+
 - name: James Meade
   photo: JM.png
   info: Undergrad student, Department of Earth Sciences
