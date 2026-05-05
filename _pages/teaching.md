@@ -10,12 +10,13 @@ Clear expectations, training plans, and quality assurance guidelines help all st
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teachpic/students_field.jpg){: style="width: 400px; float: right; border: 0px"}
 ### Getting Started
-- [Orientation]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Orientation.v1.2.docx) to get started in the lab.
-- [Data science setup]({{ site.url }}{{ site.baseurl }}/downloads/DataScience_Setup.zip) to install your data science environment.
+- [Orientation (Undergrad)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Orientation_UnderGrad.v1.0.docx) to get started in the lab.
+- [Orientation (Grad)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Orientation_Grad.v1.3.docx) to get started in the lab.
 
 ### Core Lab Resources for Students
-- [Expectation guide]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Expectations.v1.5.docx) to help you understand what we can expect from each other.
-- [Quality assurance guide (Research)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Research.v1.7.docx) provides advice for developing projects and outlines best practices for collecting, organizing, and analyzing data.
+- [Expectation guide]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Expectations.v2.docx) to help you understand what we can expect from each other.
+- [Quality assurance guide (Research)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Research.v1.8) provides advice for developing projects and outlines best practices for collecting, organizing, and analyzing data.
+- [Quality assurance guide (Coding)]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.QA1_Code.v1.docx) best practice for writing readable and reliable code.
 - [Individualized training plans]({{ site.url }}{{ site.baseurl }}/downloads/DeepTimeBio_Lab.Training_Plan.v1.7.docx) and evaluations help you stay organized to meet career goals.
 
 ### Let's Share
