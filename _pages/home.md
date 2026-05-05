@@ -53,9 +53,6 @@ Life on planet earth evolved over billions of years. Of all the species produced
     <span class="sr-only">Next</span>
   </a>
 </div>
-
 We are interested in the macroevolution of genome biology, physiology, functional morphology, and ecology. Computational modeling allows us to integrate data from fossils with extant species to understand how these systems evolve. With this approach, we address questions about genotypes and phenotypes in long-extinct species and their evolution across deep time. We are especially interested in major evolutionary transformations across levels of biological organization, from genes and genomes to morphology and behavior.
 
 We are always looking for new team members with passion, grit, and interests that transcend tradition academic boundaries and dogma. You will have the chance to work on the grand unified theory of biology (evolution) and get training in a wide range of fields, including paleontology, genomics, and data science. If this sounds interesting, drop an email to <a href="mailto:organ@montana.edu">Chris</a>.
-
-
