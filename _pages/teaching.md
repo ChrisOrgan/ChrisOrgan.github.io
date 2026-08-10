@@ -1,3 +1,10 @@
+---
+title: "Deep Time Biology Lab: Education"
+layout: piclay
+excerpt: "Deep Time Biology Lab: Education"
+permalink: /teaching/
+---
+
 # Teaching
 
 ### Earth History & Evolution (GEO 211)
