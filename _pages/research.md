@@ -35,5 +35,4 @@ Students are welcome in our lab – no experience needed. You can learn the fund
 
 ### Funding
 We are grateful for support from the National Institutes of Health and the National Science Foundation
-![NIH logo]({{ site.url }}{{ site.baseurl }}/images/respic/NIHLogoSmall.png){: style="width: 100px; display: block; margin: 0 auto; border: 0;"}
-![NIH logo]({{ site.url }}{{ site.baseurl }}/images/respic/NSFLogo.png){: style="width: 100px; display: block; margin: 0 auto; border: 0;"}
+![NIH logo]({{ site.url }}{{ site.baseurl }}/images/respic/NIHLogoSmall.png){: style="width: 200px; display: block; margin: 0 auto; border: 0;"}![NIH logo]({{ site.url }}{{ site.baseurl }}/images/respic/NSFLogo.png){: style="width: 200px; display: block; margin: 0 auto; border: 0;"}
