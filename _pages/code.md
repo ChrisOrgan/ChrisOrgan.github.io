@@ -12,7 +12,7 @@ We host our code on GitHub [here](https://github.com/ChrisOrgan). Code under act
 
 ### Sci-Phy (Science with Phylogenies)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/sciphyMCMC.gif){: style="width: 500px; float: left; border: 20px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/sciphyMCMC.gif){: style="width: 400px; float: left; border: 20px"}
 
 Sci-Phy is a python library for phylogenetic comparative analysis. Sci-Phy can read in standard phylogenetic formats like nexus and Newick, as well as strings and sets. The library can be used to manipulate sets of trees (e.g., a Bayesian posterior samples) and comparative data, conduct simulations, and create evolutionary models for categorical and numeric (continuous) data. It uses standard data science Python resources, like Pandas and NumPy, which can be scaled for high performance computing clusters using Dask. We are designing SciPhy to be developed by the computational biology community managed through GitHub under an MIT license. Sci-Phy is being developed in collaboration with [Andrew Meade](http://www.reading.ac.uk/biologicalsciences/about/staff/a-meade.aspx).
 
