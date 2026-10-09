@@ -6,14 +6,13 @@ sitemap: false
 permalink: /research/
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Graphical_Abstract.png){: style="width: 250px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Graphical_Abstract.png){: style="width: 350px; float: right; border: 10px"}
 # Research
 Our research focuses on macroevolution and paleobiology. The overarching goal of our lab is to understand how the genotype and phenotype interact across major evolutionary transitions during the history of life on earth. This is a central challenge in macroevolutionary theory that we tackle using evolutionary models to integrate a wide range of data, from fossils and paleogeography to genome sequencing.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/gear_ratio.jpg){: style="width: 500px; float: right; border: 0px"}
 ### Macroevolutionary Ecomorphology
 How do species functionally adapt to new environmental challenges, ecological interactions, and balance internal constraints over geologic time? We have several ongoing projects in this area. We are working with collaborators [(Kim Cooper)](https://cooperlab.biosci.ucsd.edu/), [(Talia Moore)](https://www.embirlab.com/), and [(Ceri Weber)](https://www.ceriweber.com/) on the evolution, development, and biomechanics of mammalian tails. We are also currently investigating the evolution of limb retraction by allowing the parameters of functional equations (lever arms) to evolve at differential rates across the Mesozoic dinosaur tree. Our results suggest that locomotor evolution is associated with speciation through dispersal or niche partitioning. This project builds on previous research showing that gigantic theropod dinosaurs had unique biomechanical spinal adaptations [(Wilson et al., PLoS ONE, 2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158962) and evolved bony display structures [(Gates, Organ, and Zanno, Nature Com., 2016)](https://www.nature.com/articles/ncomms12931).
-
+![]({{ site.url }}{{ site.baseurl }}/images/respic/gear_ratio.jpg){: style="width: 500px; float: right; border: 0px"}
 *The figure to the right shows an analysis of lever arm (gear ratio) evolution for the primary forelimb retractor muscles in dinosaurs. Warmer colors are increased, and cooler colors are decreased, evolutionary rates. Numbers indicate the median estimated rate shifts (posterior probability). Silhouette colors correspond to points in the lower-right plot. Note that despite being smaller, the arms of small, feathered dinosaurs provided more torque and evolved at faster rates. Despite orders-of-magnitude increases in body size, the lever arms of gigantic sauropods evolve gradually.*
 
 ### Evolution of Developmental Systems
@@ -35,7 +34,5 @@ Students are welcome in our lab – no experience needed. You can learn the fund
 
 ### Funding
 We are grateful for support from the National Institutes of Health and the National Science Foundation
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/NIHLogo Small.png){: style="width: 200px; float: center; border: 0px
-![]({{ site.url }}{{ site.baseurl }}/images/respic/NSFLogo.png){: style="width: 200px; float: center; border: 0px
-
+![]({{ site.url }}{{ site.baseurl }}/images/respic/NIHLogo Small.png){: style="width: 200px; float: center; border: 0px}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/NSFLogo.png){: style="width: 200px; float: center; border: 0px}
