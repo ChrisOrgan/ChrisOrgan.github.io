@@ -22,7 +22,7 @@ How do species functionally adapt to new environmental challenges, ecological in
 ### Genome Evolution
 We are interested in the patterns and processess of genome biology over geologic time. We pursue this by integrating molecular, genomic, and fossil data. For example, Chris' work on the coelacanth genome revealed genetic adaptations in the urea cycle that allowed the water-to-land transition in vertebrates roughly 375 mya, consistent with fossil evidence [(Amemiya et al., Nature 2013)](https://www.nature.com/articles/nature12027). We are currently interested in why some lineages (e.g., coelacanths, tuatara, gingko) evolve slowly despite persistent environmental change of geological timescales? This project will use Bayesian models to identify ecological and genomic factors that modulate evolutionary rates across the tree of life. This research will help connect biology with paleontology and inform conservation by clarifying how slowly evolving lineages respond to ongoing climate and habitat shifts. This follows  work Chris did on the slowly evolving genome of the tuatara, a 'living fossil' reptile endemic to New Zealand [(Gemmel et al., Nature 2020)](https://www.nature.com/articles/s41586-020-2561-9).
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/living_fossils.png){: style="width: 500px; float: left; border: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/living_fossils.png){: style="width: 600px; float: left; border: 0px"}
 
 *The figure to the left shows a graphical abstract for our Living Fossils project. Why do some lineages evolve very slowly (1st panel on the left)? We can answer this by integrating data from paleontology, genomics, and ecology (2nd panel). Bayesian models combine these data using computational platforms in Python (3rd panel). We expect to develop novel models and discover traits associated with evolutionary stasis, as well as evolutionary processes relevant to biodiversity and climate change (4th panel).*
 
@@ -35,4 +35,5 @@ Students are welcome in our lab – no experience needed. You can learn the fund
 
 ### Funding
 We are grateful for support from the National Institutes of Health and the National Science Foundation
-![NIH logo]({{ site.url }}{{ site.baseurl }}/images/respic/NIHLogoSmall.png){: style="width: 200px; display: block; margin: 0 auto; border: 0;"}![NIH logo]({{ site.url }}{{ site.baseurl }}/images/respic/NSFLogo.png){: style="width: 200px; display: block; margin: 0 auto; border: 0;"}
+![NIH logo]({{ site.url }}{{ site.baseurl }}/images/respic/NIHLogoSmall.png){: style="width: 200px; border: 0; margin: 0 1em;"} ![NSF logo]({{ site.url }}{{ site.baseurl }}/images/respic/NSFLogo.png){: style="width: 200px; border: 0; margin: 0 1em;"}
+{: style="text-align: center;"}
