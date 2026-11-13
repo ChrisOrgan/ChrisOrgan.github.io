@@ -1,3 +1,12 @@
+- title: "<a href='https://www.nature.com/articles/s42003-026-11259-9'>Predicting discrete traits in evolving systems</a>"
+  image: DisPred.png
+  description:  We describe and benchmark how phylogenetic discrete models can be used to make Phylogenetically informed predictions.
+  authors: Prall, J., K. Surya, L. Feigin, E. Bender, A. Meade, and C. L. Organ. Communications Biology. (2026). 
+  link:
+    url: https://www.nature.com/articles/s42003-026-11259-9
+  highlight: 1
+  news2:
+
 - title: "<a href='https://www.science.org/doi/10.1126/science.aee3541'>Fossil evidence favors a role for vision in the modular evolution of the primate neocortex</a>"
   image: Endocast.jpg
   description:  We showed that enhanced visual processing, not expansion of the frontal lobe, drove the major increases in neocortical size in primates.
